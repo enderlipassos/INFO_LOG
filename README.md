@@ -8,6 +8,8 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 
 
 # Atividade 3: Análise de comex stat
+<img width="1879" height="758" alt="image" src="https://github.com/user-attachments/assets/14b60093-0ce5-451e-aa5a-14c839c6db50" />
+
 
 # Atividade 4: Power Bi
 <img width="1638" height="957" alt="image" src="https://github.com/user-attachments/assets/3bd27d56-f8cb-4229-b5ae-e4e40d069ffc" />
