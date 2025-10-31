@@ -4,6 +4,8 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 <img width="1678" height="938" alt="image" src="https://github.com/user-attachments/assets/964d7288-1432-4387-babc-8ad934aa4364" />
 
 # Atividade 2: Análise exploratória  referente a dados abertos sobre bares, restaurantes e cafeteiras existente no Brasil.
+<img width="1484" height="301" alt="image" src="https://github.com/user-attachments/assets/ff58aad3-b9d2-471f-b296-c7113874adca" />
+
 
 # Atividade 3: Análise de comex stat
 
