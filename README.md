@@ -9,9 +9,10 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 # Atividade 3: Análise de comex stat
 <img width="1879" height="758" alt="image" src="https://github.com/user-attachments/assets/14b60093-0ce5-451e-aa5a-14c839c6db50" />
 
-# Atividade 4: power BI
+# Atividade 4: Filtros Power BI
 <img width="1506" height="826" alt="image" src="https://github.com/user-attachments/assets/f9e77a0d-bd70-4342-a794-a66b6cac7fdd" />
 
-# Atividade 5: Power BI exportação 2025
+# Atividade 5: dashboard no Power BI exportação 2025
 <img width="1638" height="957" alt="image" src="https://github.com/user-attachments/assets/3bd27d56-f8cb-4229-b5ae-e4e40d069ffc" />
-
+# Atividade 6: Grafico sorvete
+<img width="1070" height="669" alt="image" src="https://github.com/user-attachments/assets/5787b71e-636a-4854-84c3-1ea30f749080" />
