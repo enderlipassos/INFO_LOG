@@ -14,5 +14,6 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 
 # Atividade 5: dashboard no Power BI exportação 2025
 <img width="1638" height="957" alt="image" src="https://github.com/user-attachments/assets/3bd27d56-f8cb-4229-b5ae-e4e40d069ffc" />
-# Atividade 6: Grafico sorvete
+# Atividade 6: Gráfico sorvete
 <img width="1070" height="669" alt="image" src="https://github.com/user-attachments/assets/5787b71e-636a-4854-84c3-1ea30f749080" />
+# Atividade 7: Gráfico salário
