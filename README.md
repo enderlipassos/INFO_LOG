@@ -17,3 +17,4 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 # Atividade 6: Gráfico sorvete
 <img width="1070" height="669" alt="image" src="https://github.com/user-attachments/assets/5787b71e-636a-4854-84c3-1ea30f749080" />
 # Atividade 7: Gráfico salário
+<img width="1025" height="572" alt="image" src="https://github.com/user-attachments/assets/bc9447c7-dcc0-4784-9d9a-f803ba27a28c" />
