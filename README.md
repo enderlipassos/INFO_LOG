@@ -20,3 +20,4 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 
 # Atividade 7: Gráfico salário
 <img width="1025" height="572" alt="image" src="https://github.com/user-attachments/assets/bc9447c7-dcc0-4784-9d9a-f803ba27a28c" />
+<img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/0a949fdc-ece8-4ffd-8a58-90d6770cfeed" />
