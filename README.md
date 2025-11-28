@@ -22,3 +22,7 @@ TRABALHOS E ATIVIDADES DA AULA DE IMFORMATICA
 # Atividade 7: Gráfico salário
 <img width="1025" height="572" alt="image" src="https://github.com/user-attachments/assets/bc9447c7-dcc0-4784-9d9a-f803ba27a28c" />
 <img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/0a949fdc-ece8-4ffd-8a58-90d6770cfeed" />
+# Atividade 8: Atividades da Prova (criações)
+<img width="88" height="563" alt="image" src="https://github.com/user-attachments/assets/b954a455-a3d4-4f90-9cdc-14f88dd5f4d5" />
+<img width="1423" height="772" alt="image" src="https://github.com/user-attachments/assets/46f95e66-bf49-4d8c-ae2e-093a495ecdbb" />
+<img width="169" height="286" alt="image" src="https://github.com/user-attachments/assets/ff00e990-e3ff-4b00-af68-61aa460d72ad" />
